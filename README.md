@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
- 🌱 I’m currently learning **MERN stack**
+ 🌱 I’m currently learning **MERN stack & DSA**
 
 💬 Ask me about ** Java, Javascript ,Node.js, React**
 
