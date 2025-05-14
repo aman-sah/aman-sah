@@ -4,14 +4,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aman+Sah!;" />
 </h1>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India.</h3>
 
 
 
 <div align="center">
- 🌱 I’m currently learning **MERN stack & DSA**
+ 🌱 I’m currently learning **MERN stack & DSA
 
-💬 Ask me about ** Java, Javascript ,Node.js, React**
+💬 Ask me about ** Java, Javascript ,Node.js, React
 
  </div>
  
