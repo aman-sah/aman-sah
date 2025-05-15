@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=aman-sah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 <!--<img src="background1.gif" height="400" width="1050">-->
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/mastan-sayyad-126904223/">Aman Kumar Sah</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/mastan-sayyad-126904223/">Aman Kumar </a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 <h3 align="center">Frontend Developer | Backend Enthusiast | Cybersecurity Enthusiast | Video Editor </h3>
 
 
@@ -11,7 +11,8 @@
 
 
 - 🌱 **Currently Working On:** [YourSpace](https://your-space-zeta.vercel.app/)<br>
-- 💬 Ask Me About: JAVA, JAVASCRIPT, SQL, Marvel movies, Cooking or anything.. <br>
+- 💬 Ask Me About: JAVA, JAVASCRIPT, SQL,or anything.. <be>
+<!--- 💬 Ask Me About: JAVA, JAVASCRIPT, SQL, Marvel movies, Cooking or anything.. <be>-->
 - 🚀 Enthusiastic Computer Science student, passionate about web development.
 -  🌱 I’m currently learning - Node.js, Advanced Backend Development.
 - ⚡ About Me: **A Kuudere with a touch of intelligence.** <br>
