@@ -1,3 +1,6 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mastansayyad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 <!--<img src="background1.gif" height="400" width="1050">-->
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/mastan-sayyad-126904223/">Aman Kumar Sah</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 <h3 align="center">Frontend Developer | Backend Enthusiast | Cybersecurity Enthusiast | Video Editor </h3>
