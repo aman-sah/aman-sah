@@ -2,7 +2,7 @@
 
 
 <div>
-  <h1 align="center">Hi, I am <i><s>Ironrman!</s></i>  A-man </h1>
+  <h1 align="center">Hi, I am <i><s>Ironrman!</s></i>  Aman </h1>
   <h3 align="center">Software Engineer | Full Stack Developer | Exploring AI & LLMs | Video Editor </h3>
 </div>
 
