@@ -5,7 +5,7 @@ Hi, I am <i><s>Ironrman!</s></i> Aman, a **Full-Stack Developer** focused on bui
 * **Languages:** JavaScript, Java, Python
 * **Frontend:** React, Next.js, HTML/CSS
 * **Backend:** Node.js, Express
-* **Database & ORM** MySQL, MongoDB
+* **Database & ORM:** MySQL, MongoDB
 * **Tools:** Git, Linux, Vercel, Netlify, VSCode
 > Writing code that works on my machine and yours. Hopefully.
 
